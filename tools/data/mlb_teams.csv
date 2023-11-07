@@ -1,0 +1,31 @@
+,team_name,tm,team_color,primary_color,secondary_color,league,division
+0,Arizona Diamondbacks,ARI,#A71930,#A71930,#000000,NL,NL West
+1,Atlanta Braves,ATL,#B71234,#002F5F,#B71234,NL,NL East
+2,Baltimore Orioles,BAL,#ed4c09,#ed4c09,#000000,AL,AL East
+3,Boston Red Sox,BOS,#C60C30,#C60C30,#002244,AL,AL East
+4,Chicago Cubs,CHC,#003279,#003279,#CC0033,NL,NL Central
+5,Chicago White Sox,CHW,#000000,#C0C0C0,#000000,AL,AL Central
+6,Cincinnati Reds,CIN,#C6011F,#C6011F,#000000,NL,NL Central
+7,Cleveland Indians,CLE,#d30335,#003366,#d30335,AL,AL Central
+8,Colorado Rockies,COL,#333366,#000000,#333366,NL,NL West
+9,Detroit Tigers,DET,#DE4406,#001742,#DE4406,AL,AL Central
+10,Houston Astros,HOU,#FF7F00,#072854,#FF7F00,AL,AL West
+11,Kansas City Royals,KCR,#15317E,#15317E,#74B4FA,AL,AL Central
+12,Los Angeles Angels of Anaheim,LAA,#B71234,#B71234,#000000,AL,AL West
+13,Los Angeles Dodgers,LAD,#083C6B,#083C6B,#000000,NL,NL West
+14,Miami Marlins,FLA,#0077C8,#000000,#F9423A,NL,NL East
+15,Milwaukee Brewers,MIL,#182B49,#182B49,#92754C,NL,NL Central
+16,Minnesota Twins,MIN,#072754,#072754,#C6011F,AL,AL Central
+17,New York Mets,NYM,#002C77,#002C77,#FB4F14,NL,NL East
+18,New York Yankees,NYY,#1C2841,#1C2841,#808080,AL,AL East
+19,Oakland Athletics,OAK,#003831,#003831,#FFD800,AL,AL West
+20,Philadelphia Phillies,PHI,#BA0C2F,#BA0C2F,#003087,NL,NL East
+21,Pittsburgh Pirates,PIT,#000000,#000000,#fdb829,NL,NL Central
+22,San Diego Padres,SDP,#B4A76C,#002147,#B4A76C,NL,NL West
+23,San Francisco Giants,SFG,#F2552C,#000000,#F2552C,NL,NL West
+24,Seattle Mariners,SEA,#0C2C56,#0C2C56,#005C5C,AL,AL West
+25,St Louis Cardinals,STL,#c41e3a,#c41e3a,#0A2252,NL,NL Central
+26,Tampa Bay Rays,TBR,#9ECEEE,#00285D,#9ECEEE,AL,AL East
+27,Texas Rangers,TEX,#BD1021,#BD1021,#003279,AL,AL West
+28,Toronto Blue Jays,TOR,#003DA5,#003DA5,#041E42,AL,AL East
+29,Washington Nationals,WSN,#BA122B,#BA122B,#11225B,NL,NL East
